@@ -1,0 +1,17 @@
+@charset "UTF-8";
+/* 水平间距 */
+/* 水平间距 */
+.praise-box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.praise-box .img {
+  width: 22px;
+  height: 22px;
+}
+.praise-box .txt {
+  font-size: 12px;
+  color: #333;
+}
+

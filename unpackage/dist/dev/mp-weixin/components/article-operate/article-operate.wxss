@@ -1,0 +1,21 @@
+@charset "UTF-8";
+/* 水平间距 */
+/* 水平间距 */
+.operate-container.data-v-275d9540 {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #fff;
+  padding: 4px 6px 32px 6px;
+  display: flex;
+  border-top: 1px solid #999;
+  align-items: center;
+}
+.operate-container .comment-box.data-v-275d9540 {
+  flex-grow: 2;
+}
+.operate-container .options-box.data-v-275d9540 {
+  flex-grow: 1;
+}
+

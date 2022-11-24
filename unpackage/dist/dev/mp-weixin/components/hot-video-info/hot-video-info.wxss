@@ -1,0 +1,36 @@
+@charset "UTF-8";
+/* 水平间距 */
+/* 水平间距 */
+.hot-video-info-container .video-title.data-v-1404cf44 {
+  position: absolute;
+  top: 24px;
+  left: 15px;
+  color: #fff;
+  font-size: 16px;
+}
+.hot-video-info-container .video-info.data-v-1404cf44 {
+  display: flex;
+  justify-content: space-between;
+  background-color: #fff;
+  padding: 4px 15px;
+}
+.hot-video-info-container .video-info .author-box.data-v-1404cf44 {
+  display: flex;
+  align-items: center;
+}
+.hot-video-info-container .video-info .author-box .author-txt.data-v-1404cf44 {
+  margin-left: 5px;
+  font-size: 14px;
+  color: #333;
+  font-weight: bold;
+}
+.hot-video-info-container .video-info .barrage-box.data-v-1404cf44 {
+  display: flex;
+  align-items: center;
+}
+.hot-video-info-container .video-info .barrage-box .barrage-num.data-v-1404cf44 {
+  margin-left: 5px;
+  font-size: 12px;
+  color: #333;
+}
+

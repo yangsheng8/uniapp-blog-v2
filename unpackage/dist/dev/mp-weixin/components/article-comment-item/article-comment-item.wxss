@@ -1,0 +1,28 @@
+@charset "UTF-8";
+/* 水平间距 */
+/* 水平间距 */
+.comment-item-container {
+  padding: 12px 0;
+  display: flex;
+}
+.comment-item-container .info-box {
+  margin-left: 5px;
+  display: flex;
+  flex-direction: column;
+}
+.comment-item-container .info-box .comment-user {
+  font-size: 12px;
+  font-weight: bolder;
+  color: #000;
+}
+.comment-item-container .info-box .comment-info {
+  margin-top: 4px;
+  font-size: 14px;
+  color: #000;
+}
+.comment-item-container .info-box .comment-time {
+  margin-top: 4px;
+  font-size: 12px;
+  color: #999;
+}
+

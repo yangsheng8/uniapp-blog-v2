@@ -1,0 +1,12 @@
+@charset "UTF-8";
+/* 水平间距 */
+/* 水平间距 */
+.hot-video-item-container.data-v-ca422eb8 {
+  margin-bottom: 10px;
+  position: relative;
+}
+.hot-video-item-container .video.data-v-ca422eb8 {
+  width: 100%;
+  height: 230px;
+}
+

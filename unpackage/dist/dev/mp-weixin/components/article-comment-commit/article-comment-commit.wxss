@@ -1,0 +1,10 @@
+@charset "UTF-8";
+/* 水平间距 */
+/* 水平间距 */
+.comment-container.data-v-5575fec4 {
+  background-color: #fff;
+  text-align: right;
+  padding: 8px;
+  position: relative;
+}
+

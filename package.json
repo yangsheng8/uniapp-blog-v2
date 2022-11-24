@@ -1,0 +1,9 @@
+{
+  "name": "blog-v2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "dayjs": "^1.11.6"
+  }
+}

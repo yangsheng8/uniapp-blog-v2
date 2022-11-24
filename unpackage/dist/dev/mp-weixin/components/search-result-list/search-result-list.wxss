@@ -1,0 +1,10 @@
+@charset "UTF-8";
+/* 水平间距 */
+/* 水平间距 */
+.search-result-list-container {
+  padding: 12px;
+}
+.search-result-list-container .search-result-item-box {
+  margin-bottom: 16px;
+}
+

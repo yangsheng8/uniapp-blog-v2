@@ -1,0 +1,38 @@
+@charset "UTF-8";
+/* 水平间距 */
+/* 水平间距 */
+.search-result-item-box {
+  margin-bottom: 16px;
+}
+.search-result-item-box .item-title {
+  font-size: 14px;
+  font-weight: bold;
+  color: #000;
+}
+.search-result-item-box .item-info-box {
+  display: flex;
+  margin-top: 8px;
+}
+.search-result-item-box .item-info-box .item-desc-box {
+  width: 65%;
+  font-size: 12px;
+  color: #999;
+}
+.search-result-item-box .item-info-box .item-desc-box .item-desc-bottom {
+  margin-top: 8px;
+  display: flex;
+  color: #999;
+  font-size: 12px;
+}
+.search-result-item-box .item-info-box .item-desc-box .item-desc-bottom .item-author {
+  margin-right: 12px;
+}
+.search-result-item-box .item-info-box .item-desc-box .item-desc-bottom .item-read-num .read-num-icon {
+  color: #999;
+  margin-right: 5px;
+}
+.search-result-item-box .item-info-box .item-img {
+  width: 33%;
+  height: 70px;
+}
+
